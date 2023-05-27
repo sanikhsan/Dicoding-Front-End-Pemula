@@ -1,4 +1,4 @@
-# Dicoding-Front-End-Pemula
+# Dicoding Front End Pemula
 Hasil dari mengerjakan Submission kelas Front End Pemula di Dicoding Academy
 
 ## Kriteria Submission :
